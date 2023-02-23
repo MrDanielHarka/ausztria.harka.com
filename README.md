@@ -11,7 +11,9 @@ Tartalomjegyzék:
 - [társadalombiztosítás](#tarsadalombiztositas)
 - [anmeldebescheinigung](#anmeldebescheinigung)
 - [ecard](#ecard)
+- [kijelentkezés](#kijelentkezes)
 - [hauptwohnsitzmeldung](#hauptwohnsitzmeldung)
+- [gis](#gis)
 - [ügyintézés](#ugyintezes)
 - [támogatások](#tamogatasok)
 - [állampolgárság](#allampolgarsag)
@@ -25,9 +27,9 @@ Tartalomjegyzék:
 
 ## Felelősségkizárás <a id="felelossegkizaras"></a>
 
-Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem össze az alábbi infókat és a legjobb tudásom szerint rendszereztem őket. Előfordulhat, hogy valami hibás vagy hiányos, de gondoltam ha már összegyűjtöttem őket, akkor nem tellik semmiből feltölteni, hátha másnak is segítség. Folyamatosan pucolgatom, de nem vállalok semmilyen felelősséget az esetleges helytelenségekért. Ugyanakkor helyesbítést szívesen fogadok [Facebook/Messenger](https://www.facebook.com/messages/t/1420286526)-en, [GitHub](https://github.com/MrDanielHarka/ausztria.harka.com)-on vagy emailen: **ausztria<sub><sup>kukac</sup></sub>harka<sub><sup>pont</sup></sub>com**
+Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem össze az alábbi infókat és a legjobb tudásom szerint rendszereztem őket. Előfordulhat, hogy valami hibás vagy hiányos, de gondoltam ha már összegyűjtöttem őket, akkor nem tellik semmiből feltölteni, hátha másnak is segítség. Folyamatosan pucolgatom, de nem vállalok semmilyen felelősséget az esetleges helytelenségekért. Ugyanakkor helyesbítést szívesen fogadok [Reddit](https://www.reddit.com/user/MrDanielHarka/)-en, [Facebook/Messenger](https://www.facebook.com/messages/t/1420286526)-en, [GitHub](https://github.com/MrDanielHarka/ausztria.harka.com)-on vagy emailen: **ausztria<sub><sup>kukac</sup></sub>harka<sub><sup>pont</sup></sub>com**
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Munka <a id="munka"></a>
 
@@ -57,9 +59,7 @@ Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem öss
 
 [Hokify](https://hokify.at) - Job portal
 
-
-
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Tömegközlekedés <a id="tomegkozlekedes"></a>
 
@@ -67,7 +67,7 @@ Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem öss
 
 Na ez Bécs egyik legnagyobb előnye. Nincs szükség autóra Bécsben, hacsak nem valamit szállítani akarsz. A tömegközi, vagy bicikli jól működnek. Ha havi bérlet kell azt hiszem 50 Euró, ha éves bérletet veszel, az havi kiosztásban kb 33 Euróra jön ki. (lehet havonta is fizetni, és le is lehet mondani.) Ha az ember hallgató, v fiatal, akkor még jobb lehetőségek is vannak.
 
-Ha vonatozni akartok, Ausztria kicsit drágább, mint Mo, de van egy ún. Vorteilskarte akció, amivel 50% kedvezménnyel utazhat az ember, ha van ilyen kártyája. (19 Euró 1 évben.) Mo-ra utazni a Mávval érdemes, mert olcsóbb 
+Ha vonatozni akartok, Ausztria kicsit drágább, mint Mo, de van egy ún. Vorteilskarte akció, amivel 50% kedvezménnyel utazhat az ember, ha van ilyen kártyája. (19 Euró 1 évben.) Mo-ra utazni a Mávval érdemes, mert olcsóbb
 
 bécsi tömegközi bérlet. Mert ide is regisztrálni kell, kb egy igazolvány amivel utazhatsz:
 
@@ -80,7 +80,7 @@ A Jahreskarte-hez is kötelező a kis bélyegkép. Személyesen a wiener lienien
 Van egy KulturPass nevű kártya, amit igényelhetsz a kerületesben lévő Nachbarschaftszentrum-ban. Ha a fizetésed nem éri el az X összeget, akkor lehet igényelni, és ingyen bele lehet vele menni egy csomó múzeumba, színházba, hangversenyre, stb..
 [https://www.hungeraufkunstundkultur.at/wien](https://www.hungeraufkunstundkultur.at/wien)
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Lakás <a id="lakas"></a>
 
@@ -101,7 +101,7 @@ Facebook Marketplace egy lehetőség, sokan használják, főleg külföldiek. A
 Ingatlan árak (bérlés/vásárlás):  
 [https://www.immopreise.at/Wien/Wohnung/Miete](https://www.immopreise.at/Wien/Wohnung/Miete)
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Meldezettel <a id="meldezettel"></a>
 
@@ -111,15 +111,15 @@ Amikor van mar lakas es szerzodes, akkor be kell menned a hivatalba es ki kell k
 
 [https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html](https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html)
 
-Ausztriában **3 napon belül személyesen vagy postai úton be kell jelenteni a lakcím létesítését** *(Meldepflicht)*, a lakcím megváltozását, valamint további lakcímek létesítését vagy megszüntetését *(ideiglenes vagy második lakcím)*. A kitöltött formanyomtatvány az ún. Meldezettel, melyet a szállásadó ír alá. Minden egyes családtagnak külön igazolással kell rendelkeznie. A lakcím bejelentkezése, módosítása vagy megszüntetése Bécsben a Meldeservice irodáiban (**[www.wien.gv.at/verwaltung/meldeservice/stellen.html](https://www.wien.gv.at/verwaltung/meldeservice/stellen.html)**) vagy a Kerületi Elöljáróságokon (*Bezirkshauptmannschaft)* történik.
+Ausztriában **3 napon belül személyesen vagy postai úton be kell jelenteni a lakcím létesítését** _(Meldepflicht)_, a lakcím megváltozását, valamint további lakcímek létesítését vagy megszüntetését _(ideiglenes vagy második lakcím)_. A kitöltött formanyomtatvány az ún. Meldezettel, melyet a szállásadó ír alá. Minden egyes családtagnak külön igazolással kell rendelkeznie. A lakcím bejelentkezése, módosítása vagy megszüntetése Bécsben a Meldeservice irodáiban (**[www.wien.gv.at/verwaltung/meldeservice/stellen.html](https://www.wien.gv.at/verwaltung/meldeservice/stellen.html)**) vagy a Kerületi Elöljáróságokon (_Bezirkshauptmannschaft)_ történik.
 
 A lakcím bejelentés a következő.
 
 El kell menni egy hivatalba, ahol be kell ezt "jelenteni". Van egy formanyomtatvány, úgy nevezik, hogy Meldezettel, amit előre ki kell tölteni, szállásadóval aláíratni (ha te vagy a főbérlő, akkor a házvezetés (Hausverwaltung) írja alá. A hivatlban meg az a cél, hogy ők ezt lepecsételjék. Ezt a papírt nem árt, h az ember lefotózza, beszkenneli, hogy digitális formában is meglegyen. (Bankban számlanyitáskor, telefonszámla nyitáskor, munkavállaláskor szokták kérni.) A hivatalban 2-3 héttel előre kell időpontot foglalni (legalábbis nálam így volt). Itt tudsz időpontot foglalni: [https://www.wien.gv.at/verwaltung/meldeservice/stellen.html](https://www.wien.gv.at/verwaltung/meldeservice/stellen.html) -> Online Terminreservierung -> és kiválasztod, h melyik kerületben. A formanyomtatványt meg itt tudod letölteni: [https://www.oesterreich.gv.at/dam/jcr:38f0c638-c65a-4d06-98fe-ac4171607a3a/meldezettel.pdf](https://www.oesterreich.gv.at/dam/jcr:38f0c638-c65a-4d06-98fe-ac4171607a3a/meldezettel.pdf)
 
- [Lakcím létesítése (Meldepflicht)](https://www.ausztriaimunkak.eu/ausztria-info/lakcim-letesitese-meldepflicht)
+[Lakcím létesítése (Meldepflicht)](https://www.ausztriaimunkak.eu/ausztria-info/lakcim-letesitese-meldepflicht)
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Bank <a id="bank"></a>
 
@@ -137,7 +137,7 @@ Ausztriában csak osztrák bankszámlára utalnak.
 
 Kint nem ugy mukodik mint otthon hogy tok mindegy honnan fizetsz csak fizess credit score rendszer van.
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Mobil <a id="mobil"></a>
 
@@ -147,9 +147,9 @@ Mobilra pedig a Magentat hasznalom (Azert jo, mert nem kell evekre alairni, olcs
 
 [https://www.magenta.at/handytarife/wertkarte](https://www.magenta.at/handytarife/wertkarte)
 
-Van Telekom, van "A1", meg minden más, ami az ő hálózatukat használja. Én a "Yesss!"-nél vagyok. Nekik nincs irodájuk, ahova besétál az ember, minden online van (tudtommal). A pénzfeltöltés kicsit körülményes, amúgy a csomagok ár-érték aránya sztem elég jó. Főleg ha sok mobilnet is kell. Mással nincs tapastalatom. 
+Van Telekom, van "A1", meg minden más, ami az ő hálózatukat használja. Én a "Yesss!"-nél vagyok. Nekik nincs irodájuk, ahova besétál az ember, minden online van (tudtommal). A pénzfeltöltés kicsit körülményes, amúgy a csomagok ár-érték aránya sztem elég jó. Főleg ha sok mobilnet is kell. Mással nincs tapastalatom.
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Társadalombiztosítás <a id="tarsadalombiztositas"></a>
 
@@ -169,7 +169,7 @@ Orvost, leginkább szakorvost is ajánlás után, vagy a neten böngészve talá
 
 Ha hirtelen nagy baj van, be lehet szaladni az [AKH](https://www.akhwien.at/)-ba, ahol pl. Megvizsgálnak, megröntgeneznek. Bár jobb körülmények között, de mi kisgyerekkel ugyanúgy órákig vártunk itt egy vizsgálatra, mint a János Kórházban tettük volna.
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Anmeldebescheinigung <a id="anmeldebescheinigung"></a>
 
@@ -189,7 +189,7 @@ Amikortól a lakcímedet bejelentetted, 4 hónapod van a bevándorlási hivatalb
 
 Anmeldebescheinigung 30EUR, és csak bevándorlási hivatalban csináltathatod, és nem jó hozzá a személyi igazolvány, útlevél kell, lefénymásolva. És minden esetben 4 hónapod van rá, nem csak egy. 4 hónap után automatikusan csendben gyűlik a havi büntetés, és 1-2 év múlva kiszámláznak neked több ezer eurót
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Ecard <a id="ecard"></a>
 
@@ -201,15 +201,31 @@ Nem árt, ha van egy ún ecardod a biztosítások kívűl, ami kb egy tajkártya
 
 itt tudsz majd regisztrálni: -> elektronische Terminvereinbarung, illetve kritériumok: -> Passbildkriterien.
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
+
+## Kijelentkezés <a id="kijelentkezes"></a>
+
+Magyar lakcímed addig van amíg akarod, senkit se érdekel, van ismerősöm aki 20 éve nem mondta le.
+TB-t lemondod ügyfélkapun ha megvan a kinti biztosításod, ami általában az első munkanapod. Az osztrák TB-det meg fogja kötni a munkahelyed anélkül is, hogy lemondanád a magyart, csak azért kell lemondani a magyart időben, hogy a NEAK ne mászkáljon utánad a magyar TB díja miatt, de nekik meg lobogtathatod az ügyfélkapus visszaigazolót.
+
+[`Fel ↑`](#top)
 
 ## Hauptwohnsitzmeldung <a id="hauptwohnsitzmeldung"></a>
 
-[https://www.oesterreich.gv.at/themen/dokumente_und_recht/an__abmeldung_des_wohnsitzes/Seite.1180200.html](https://www.oesterreich.gv.at/themen/dokumente_und_recht/an__abmeldung_des_wohnsitzes/Seite.1180200.html)
+[https://www.oesterreich.gv.at/themen/dokumente_und_recht/an\_\_abmeldung_des_wohnsitzes/Seite.1180200.html](https://www.oesterreich.gv.at/themen/dokumente_und_recht/an__abmeldung_des_wohnsitzes/Seite.1180200.html)
 
 [https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html](https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html)
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
+
+## GIS <a id="gis"></a>
+
+Osztrák TV & Rádió maffia. 
+
+GIS bejelentő formot postán amit kitöltesz visszküldesz és kész is. Lehet kimennek hozzád személyesen, akkor ne engedd be öket. Ha beengeded őket már vesztettél. Ne engedd be őket, nem vagy köteles. Küldözgetnek majd általános bejelentő leveleket, amiben nem lesz olyan opció, hogy nincs készüléked, így nem is tudsz normálisan válaszolni rá. Egy idő után majd jön ajánlott levél, erre viszont köteles vagy válaszolni, abban majd beikszelheted azt az opciót, hogy nincs készüléked és szevasz.
+Viszont 2024-től megszűnik a jelenlegi formájában és más finanszírozási fomára fog átállni az ORF. Most arra hajlanak, hogy családonként legombolnak mindenkit évente.
+
+[`Fel ↑`](#top)
 
 ## Ügyintézés <a id="ugyintezes"></a>
 
@@ -219,7 +235,7 @@ Az elso ev vegen mindket orszagban kell adobevallast csinalnod.
 
 [https://finanzonline.bmf.gv.at/fon/](https://finanzonline.bmf.gv.at/fon/)
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Támogatások<a id="tamogatasok"></a>
 
@@ -228,20 +244,20 @@ Ahogy csak tudjátok, használjatok ki mindent. Meg a "nem lehet"-nek ne higgyet
 
 Ha kialakul, hogy tényleg hosszútávra gondolkoztok, és a párod nem talál bejelentett munkát, én ajánlom az AMS-t. Akinek nem volt kint munkaviszonya, tudtommal nem jogosult segélyre, de ingyenes nyelvtanfolyamra, vagy más tanfolyamra baíratkozhat. Először jelentkezni kell, majd behívnak egy személyes elbeszélgetésre, s kialakul egy terv. Általában javasolnak egy nyelvtanfolyamot vagy hasonlót. Én végigjártam 10-12 hetet és utána letettem a német középfokút.
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Állampolgárság <a id="allampolgarsag"></a>
 
-EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani lakhellyel.
+EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani lakhellyel. Magyarról le kell mondani.
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Bevásárlás <a id="bevasarlas"></a>
 
 - [Gewerbepark Stadlau](https://www.shops-wien.at/shopping-center-wien/22-gewerbepark-stadlau-gewerbeparkstrasse-2-e)
 - [Donauzentrum](https://www.facebook.com/Donauzentrum/) – Bécs legnagyobb plázája
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Szabadidő <a id="szabadido"></a>
 
@@ -267,7 +283,7 @@ Ide már kocsi kell, persze azt is lehet bérelni, mint Budapesten pl. a MOL lim
 
 - [Naturpark Sparbach](https://www.naturpark-sparbach.at/) – tavasszal kis vaddisznók szelik át a túraútvonalakat :-)
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Párkapcsolat <a id="parkapcsolat"></a>
 
@@ -277,7 +293,7 @@ Meddig éri meg az előrébb jutásért a régi kapcsolatokat háttérbesorolni,
 
 Szerencsésebb előre megbeszélni egy A, B, esetleg C tervet. Ha minden jól megy x ideig maradunk, utána újratervezés. Ha párod nem talál munkát 3-6-x hónap alatt, akkor… Ha én másik munkahelyet szeretnék… Ha gyarapodik a családunk…
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Gyerek <a id="gyerek"></a>
 
@@ -287,13 +303,13 @@ Viszont a szülő előre el kell döntse, hogy meddig marad otthon a gyermekéve
 
 Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. Más szempontból viszont jobb volt így számomra.
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Tippek <a id="tippek"></a>
 
 - A legtöbb dologról kint elő magyaroktól tájékozódtam. Ismerkedjetek sokat, meg van rengeteg ilyen magyarok Ausztriában/Bécsben csoport. Azokba érdemes belépni
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Kérdések <a id="kerdesek"></a>
 
@@ -303,9 +319,9 @@ Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. M�
 - [Handy-Signatur und kartenbasierte Bürgerkarte – Allgemeines](https://www.oesterreich.gv.at/themen/dokumente_und_recht/handy_signatur_und_kartenbasierte_buergerkarte/Seite.2210030.html)
 - Bürgerkarte?
 - ID Austria?
-- 
+-
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 ## Linkek <a id="linkek"></a>
 
@@ -330,6 +346,6 @@ Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. M�
 - [Wien-Bécs-Vienna Magyaroknak](https://www.facebook.com/groups/wien.magyaroknak/)
 - [Külföldi letelepedés bejelentése](https://becs.mfa.gov.hu/page/kuelfoeldi-letelepedes-bejelentese) - Bécsi Nagykövetség
 
-[Fel ↑](#top)
+[`Fel ↑`](#top)
 
 **Összegyűjtötte: [Harka Dániel](https://daniel.harka.com)**
