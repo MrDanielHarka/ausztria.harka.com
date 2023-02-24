@@ -4,6 +4,7 @@ Tartalomjegyzék:
 
 - [felelősségkizárás](#felelossegkizaras)
 - [tömegközlekedés](#tomegkozlekedes)
+- [munka](#munka)
 - [lakás](#lakas)
 - [meldezettel](#meldezettel)
 - [bank](#bank)
@@ -33,6 +34,8 @@ Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem öss
 
 ## Munka <a id="munka"></a>
 
+[Online Brutto-Netto-Rechner](https://bruttonetto.arbeiterkammer.at) - Munkabér kalkulátor
+
 [Bécsi Magyarok](https://www.facebook.com/groups/274342695979311/) - Fb csoport
 
 [English Speakers in Austria](https://www.facebook.com/groups/austria.english.speakers) - Fb csoport
@@ -58,6 +61,8 @@ Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem öss
 [Job in Austria](https://www.facebook.com/groups/2262445737409292/) - Fb csoport
 
 [Hokify](https://hokify.at) - Job portal
+
+[https://www.come2austria.com](https://www.come2austria.com)
 
 [`Fel ↑`](#top)
 
@@ -319,7 +324,6 @@ Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. M�
 - [Handy-Signatur und kartenbasierte Bürgerkarte – Allgemeines](https://www.oesterreich.gv.at/themen/dokumente_und_recht/handy_signatur_und_kartenbasierte_buergerkarte/Seite.2210030.html)
 - Bürgerkarte?
 - ID Austria?
--
 
 [`Fel ↑`](#top)
 
@@ -345,6 +349,9 @@ Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. M�
 - [Általános tudnivalók az Ausztriában letelepedni, munkát vállalni szándékozók számára](https://www.facebook.com/legacy/notes/223544387833390/)
 - [Wien-Bécs-Vienna Magyaroknak](https://www.facebook.com/groups/wien.magyaroknak/)
 - [Külföldi letelepedés bejelentése](https://becs.mfa.gov.hu/page/kuelfoeldi-letelepedes-bejelentese) - Bécsi Nagykövetség
+- [Ausztria kivándorlás tutoriál](https://www.reddit.com/r/hungary/comments/twdg7v/ausztria_kiv%C3%A1ndorl%C3%A1s_tutori%C3%A1l/) - Reddit post
+- [Emigrációs tanácsok és tudnivalók: Ausztria (Ask Us Anything jeligére)](https://www.reddit.com/r/hungary/comments/tx427y/emigr%C3%A1ci%C3%B3s_tan%C3%A1csok_%C3%A9s_tudnival%C3%B3k_ausztria_ask_us/) - Reddit post + kommentek
+- [Külföldre költözés tutorial](https://www.reddit.com/r/hungary/comments/tw4fo5/külföldre_költözés_tutorial_sokan_kértétek/) - Reddit post
 
 [`Fel ↑`](#top)
 
